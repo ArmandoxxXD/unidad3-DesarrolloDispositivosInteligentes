@@ -13,21 +13,24 @@
 #### Video
 [Ver video](https://drive.google.com/file/d/1GJad5Ln9kU1c914dGwwYL89ujaEYLamA/view?t=1)
 
-#### Wokwi
+#### Codigo en Wokwi
 [Ver proyecto en Wokwi](https://wokwi.com/projects/405716610077502465)
 ### U3-T03: Menú en la ESP32 OLED con la Raspberry Pi y Sensores
 
 #### Video
 [Ver video](https://drive.google.com/file/d/1GFJT3-uVFBA9LPpRDyuw6Q2py-xqa5Sq/view?t=1)
 
-#### Wokwi
+#### Codigo en Wokwi
 [Ver proyecto en Wokwi](https://wokwi.com/projects/405692512005895169)
 
 ### LineChart
-[Ver video](video_url)
+[Ver video](https://drive.google.com/file/d/1lfPkq1DPWcm7kXUYEb1rcxcCVbEs4DTM/view?usp=sharing)
 
 ### Gauge
 [Ver video](https://drive.google.com/file/d/1l1xEPb6Qyy55LmjqQ3Qf2FoHkBWbud8C/view?usp=sharing)
 
 ### Gauge recibiendo valores mediante MQTT de un potenciometro
-[Ver video](video_url)
+Ejercicio mostrado en clases
+
+#### Codigo en Wokwi
+[Ver proyecto en Wokwi](https://wokwi.com/projects/405157005899964417)
