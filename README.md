@@ -6,7 +6,7 @@
 2. [U3-T03: Menú en la ESP32 OLED con la Raspberry Pi y Sensores](#u3-t03-menú-en-la-esp32-oled-con-la-raspberry-pi-y-sensores)
 3. [LineChart](#linechart)
 4. [Gauge](#gauge)
-5. [Gauge recibiendo valores mediante MQTT de un servo](#gauge-recibiendo-valores-mediante-mqtt-de-un-servo)
+5. [Gauge recibiendo valores mediante MQTT de un potenciometro](#gauge-recibiendo-valores-mediante-mqtt-de-un-potenciometro)
 
 ### U3-T02: Gráfica con datos de sensor en OLED
 
