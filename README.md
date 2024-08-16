@@ -14,15 +14,16 @@
 [Ver video](https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1)
 
 #### Wokwi
-[Ver proyecto en Wokwi](https://wokwi.com/projects/405716610077502465)
+[Ver proyecto en Wokwi](https://wokwi.com/projects/405716610077502465){:target="_blank"}
 
 ### U3-T03: Menú en la ESP32 OLED con la Raspberry Pi y Sensores
 
 #### Video
 [Ver video](https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1)
+<iframe width="560" height="315" src="https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1" frameborder="0" allowfullscreen></iframe>
 
 #### Wokwi
-[Ver proyecto en Wokwi](https://wokwi.com/projects/405692512005895169)
+[Ver proyecto en Wokwi](https://wokwi.com/projects/405692512005895169){:target="_blank"}
 
 ### LineChart
 [Ver video](video_url)
