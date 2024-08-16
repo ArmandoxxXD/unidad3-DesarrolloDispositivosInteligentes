@@ -11,19 +11,17 @@
 ### U3-T02: Gráfica con datos de sensor en OLED
 
 #### Video
-[Ver video](https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1)
+[Ver video](https://drive.google.com/file/d/1GJad5Ln9kU1c914dGwwYL89ujaEYLamA/view?t=1)
 
 #### Wokwi
-[Ver proyecto en Wokwi](https://wokwi.com/projects/405716610077502465){:target="_blank"}
-
+[Ver proyecto en Wokwi](https://wokwi.com/projects/405716610077502465)
 ### U3-T03: Menú en la ESP32 OLED con la Raspberry Pi y Sensores
 
 #### Video
-[Ver video](https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1)
-<iframe width="560" height="315" src="https://drive.google.com/drive/folders/1FzEIRpzIKOffjoewZBzZZbFc00d407t1" frameborder="0" allowfullscreen></iframe>
+[Ver video](https://drive.google.com/file/d/1GFJT3-uVFBA9LPpRDyuw6Q2py-xqa5Sq/view?t=1)
 
 #### Wokwi
-[Ver proyecto en Wokwi](https://wokwi.com/projects/405692512005895169){:target="_blank"}
+[Ver proyecto en Wokwi](https://wokwi.com/projects/405692512005895169)
 
 ### LineChart
 [Ver video](video_url)
