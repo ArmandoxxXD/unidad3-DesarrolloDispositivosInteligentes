@@ -29,7 +29,7 @@ class MqttService {
     }
 
     if (client.connectionStatus?.state == MqttConnectionState.connected) {
-      client.subscribe('temperature/topic/oivm', MqttQos.atLeastOnce);
+      client.subscribe('temperature/topic/jagr', MqttQos.atLeastOnce);
 
       await for (final c in client.updates!) {
         final MqttPublishMessage recMess = c[0].payload as MqttPublishMessage;

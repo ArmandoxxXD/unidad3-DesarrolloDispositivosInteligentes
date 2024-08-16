@@ -36,7 +36,7 @@ class MqttService {
     // Verifica si la conexión fue exitosa
     if (client.connectionStatus?.state == MqttConnectionState.connected){
       // Se suscribe al tópico de temperatura con QoS 1
-      client.subscribe("temperature/topic/oivm", MqttQos.atLeastOnce);
+      client.subscribe("temperature/topic/jagr", MqttQos.atLeastOnce);
 
       // Escucha los mensajes entrantes sy emite los valores de temperatura
       await for (final c in client.updates!){
