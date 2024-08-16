@@ -27,7 +27,7 @@
 [Ver video](video_url)
 
 ### Gauge
-[Ver video](video_url)
+[Ver video](https://drive.google.com/file/d/1l1xEPb6Qyy55LmjqQ3Qf2FoHkBWbud8C/view?usp=sharing)
 
 ### Gauge recibiendo valores mediante MQTT de un potenciometro
 [Ver video](video_url)
